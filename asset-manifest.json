@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/eaeniko.github.io/static/css/main.a617e044.chunk.css",
-    "main.js": "/eaeniko.github.io/static/js/main.0a587cd1.chunk.js",
-    "main.js.map": "/eaeniko.github.io/static/js/main.0a587cd1.chunk.js.map",
-    "runtime-main.js": "/eaeniko.github.io/static/js/runtime-main.0c200c57.js",
-    "runtime-main.js.map": "/eaeniko.github.io/static/js/runtime-main.0c200c57.js.map",
-    "static/js/2.1847a62e.chunk.js": "/eaeniko.github.io/static/js/2.1847a62e.chunk.js",
-    "static/js/2.1847a62e.chunk.js.map": "/eaeniko.github.io/static/js/2.1847a62e.chunk.js.map",
-    "static/js/3.37749f2b.chunk.js": "/eaeniko.github.io/static/js/3.37749f2b.chunk.js",
-    "static/js/3.37749f2b.chunk.js.map": "/eaeniko.github.io/static/js/3.37749f2b.chunk.js.map",
-    "index.html": "/eaeniko.github.io/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/eaeniko.github.io/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.1847a62e.chunk.js.LICENSE.txt": "/eaeniko.github.io/static/js/2.1847a62e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/eaeniko.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.0a587cd1.chunk.js",
+    "main.js.map": "/static/js/main.0a587cd1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b4de312f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b4de312f.js.map",
+    "static/js/2.1847a62e.chunk.js": "/static/js/2.1847a62e.chunk.js",
+    "static/js/2.1847a62e.chunk.js.map": "/static/js/2.1847a62e.chunk.js.map",
+    "static/js/3.37749f2b.chunk.js": "/static/js/3.37749f2b.chunk.js",
+    "static/js/3.37749f2b.chunk.js.map": "/static/js/3.37749f2b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1847a62e.chunk.js.LICENSE.txt": "/static/js/2.1847a62e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c200c57.js",
+    "static/js/runtime-main.b4de312f.js",
     "static/js/2.1847a62e.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.0a587cd1.chunk.js"
