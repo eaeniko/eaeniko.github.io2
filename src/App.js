@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Check my others links.
+          Check my others links!
         </a>
       </header>
     </div>
