@@ -3,12 +3,13 @@ import '../components/header';
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "../components/header";
-import './Home.css'
+import '../index.css'
+import '../App.css'
 
 export default class Home extends React.Component {
   render() {
     return (
-      <div className="App">
+      <div className="test">
         <Header />
       <header className="App-header">
         <p>
